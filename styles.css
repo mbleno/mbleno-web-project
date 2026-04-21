@@ -23,6 +23,7 @@ h3 {
 
 body {
     background: linear-gradient(to bottom, #174e48, #1a1919);
+    background-repeat: no-repeat;
 }
 
 p, ul {
